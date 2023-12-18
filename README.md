@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [amankumar1222](https://github.com/amankumar1222/faq-accordion-main)
+- Solution URL: [amankumar1222]([https://github.com/amankumar1222/faq-accordion-main](https://github.com/amankumar1222/news-homepage-main))
 - Live Site URL: [](https://658006df92f978112a7c7be6--extraordinary-choux-999025.netlify.app/)
 
 
